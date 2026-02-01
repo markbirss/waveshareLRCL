@@ -1,4 +1,5 @@
 # esp32-s3-rlcd-42
+https://www.waveshare.com/esp32-s3-rlcd-4.2.htm
 
 ## PlatformIO version of https://github.com/VolosR/waveshareLRCL
 
